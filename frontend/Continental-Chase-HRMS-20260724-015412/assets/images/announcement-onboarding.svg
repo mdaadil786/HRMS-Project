@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Continental Chase employee onboarding">
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <rect x="110" y="92" width="980" height="500" rx="28" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="174" y="148" width="376" height="322" rx="20" fill="#eff6ff"/>
+  <rect x="610" y="148" width="416" height="78" rx="16" fill="#e2e8f0"/>
+  <rect x="610" y="260" width="416" height="78" rx="16" fill="#dbeafe"/>
+  <rect x="610" y="372" width="416" height="78" rx="16" fill="#dcfce7"/>
+  <circle cx="362" cy="276" r="76" fill="#2563eb"/>
+  <path d="M242 430c70-112 170-112 240 0" fill="#bfdbfe"/>
+  <circle cx="660" cy="187" r="20" fill="#2563eb"/>
+  <circle cx="660" cy="299" r="20" fill="#059669"/>
+  <circle cx="660" cy="411" r="20" fill="#7c3aed"/>
+  <path d="M704 185h248M704 298h248M704 410h248" stroke="#64748b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M232 536h736" stroke="#cbd5e1" stroke-width="18" stroke-linecap="round"/>
+</svg>
